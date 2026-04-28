@@ -1,6 +1,6 @@
 # Sql_Data_Analytics_Project
 
-> End-to-end exploratory data analysis and advanced business analytics — built entirely in SQL on a real sales data warehouse.
+> End-to-end exploratory data analysis and advanced business analytics — built entirely in SQL on a  sales data warehouse.
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
