@@ -88,7 +88,6 @@ Each script uses **only T-SQL** — leveraging window functions, CTEs, date func
 **Geographic Performance**
 - The **USA and Australia together contribute >60%** of total revenue ($9.16M + $9.06M)
 - Canada ($1.98M) shows significant headroom compared to peers — a growth opportunity
-- ~$230K in sales are unclassified by country — a **data quality flag** surfaced during EDA
 
 **Customer Segmentation**
 - ~18,484 unique customers place an average of **~3.3 orders each** over the period
